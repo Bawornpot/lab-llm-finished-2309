@@ -1,0 +1,5 @@
+.venv/
+data/
+lab-notes.md
+__pycache__/
+*.py[cod]
